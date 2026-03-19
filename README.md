@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Heta Karani
 
-<!--
-**karaniheta/karaniheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Mumbai, India
+🎓 B.Tech Computer Science
 
-Here are some ideas to get you started:
+## 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Flutter developer focused on building smooth, scalable, and user-centric applications.
+I enjoy working across the stack — crafting clean UI on the frontend and handling efficient APIs on the backend.
+I like turning ideas into real, usable products and continuously improving my development skills.
+
+## ⚡ Tech Stack
+
+**Languages**
+Java • Python • C • C++ • SQL • Dart
+
+**Frameworks & Technologies**
+Flutter • Firebase • REST APIs • HTML • CSS
+
+**Tools**
+Git • GitHub • Postman • Figma • Canva
+
+## 🌐 Connect
+
+📧 [karaniheta@gmail.com](mailto:karaniheta@gmail.com)
+💼 https://linkedin.com/in/heta-dilip-karani-583348314
+💻 https://github.com/karaniheta
+
+---
+
+✨ *Building, learning, and improving — one project at a time.*
